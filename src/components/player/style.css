@@ -1,0 +1,39 @@
+.smallCont{
+    background-image: linear-gradient(#0c060681, #ffffff1e);
+    width: 100vw;
+    display:flex;
+
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0 0 59px;
+    color: white;
+}
+
+.info strong {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.info span{
+    font-size: 17px;
+}
+
+.btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px 0 0 0;
+    position: absolute;
+    right: 46vw;
+}
+
+audio {
+    display: none;
+}
+
+.btns img {
+    margin-left: 30px;
+}

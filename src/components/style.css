@@ -1,0 +1,25 @@
+.panel {
+    padding: 0 5px 0 5px;
+}
+.panel strong:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.panel img {
+    width: 20vw;
+    height: auto;
+    padding: 0 5px 0 5px;
+}
+
+.smallContainer {
+    display: flex;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+img:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
